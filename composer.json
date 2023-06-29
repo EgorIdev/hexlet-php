@@ -1,0 +1,15 @@
+{
+    "name": "egordev/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Egordev\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Egordev",
+            "email": "isupovegor777@gmail.com"
+        }
+    ],
+    "require": {}
+}
